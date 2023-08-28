@@ -1,4 +1,7 @@
-package com.aurionpro.model;
+package com.aurionpro.test;
+
+import com.aurionpro.model.DogDoor;
+import com.aurionpro.model.Remote;
 
 public class DogDoorTest {
 
